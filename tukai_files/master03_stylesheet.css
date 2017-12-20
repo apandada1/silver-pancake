@@ -1,6 +1,6 @@
 body
-	{width:534px;
-	height:400px;}
+	{width:554px;
+	height:415px;}
 .TB
 	{mso-special-format:nobullet•;}
 .T
@@ -10,7 +10,7 @@ body
 	mso-hansi-font-family:Calibri;
 	color:black;
 	mso-color-index:1;
-	font-size:209%;
+	font-size:220%;
 	mso-char-wrap:1;
 	mso-kinsoku-overflow:1;}
 .BB
@@ -23,7 +23,7 @@ body
 	mso-hansi-font-family:Calibri;
 	color:black;
 	mso-color-index:1;
-	font-size:152%;
+	font-size:160%;
 	mso-char-wrap:1;
 	mso-kinsoku-overflow:1;}
 .B1B
@@ -36,7 +36,7 @@ body
 	mso-hansi-font-family:Calibri;
 	color:black;
 	mso-color-index:1;
-	font-size:133%;
+	font-size:140%;
 	mso-char-wrap:1;
 	mso-kinsoku-overflow:1;}
 .B2B
@@ -49,7 +49,7 @@ body
 	mso-hansi-font-family:Calibri;
 	color:black;
 	mso-color-index:1;
-	font-size:114%;
+	font-size:120%;
 	mso-char-wrap:1;
 	mso-kinsoku-overflow:1;}
 .B3B
@@ -62,7 +62,7 @@ body
 	mso-hansi-font-family:Calibri;
 	color:black;
 	mso-color-index:1;
-	font-size:95%;
+	font-size:100%;
 	mso-char-wrap:1;
 	mso-kinsoku-overflow:1;}
 .B4B
@@ -75,7 +75,7 @@ body
 	mso-hansi-font-family:Calibri;
 	color:black;
 	mso-color-index:1;
-	font-size:95%;
+	font-size:100%;
 	mso-char-wrap:1;
 	mso-kinsoku-overflow:1;}
 .N
@@ -117,7 +117,7 @@ body
 	mso-hansi-font-family:Calibri;
 	color:black;
 	mso-color-index:1;
-	font-size:85%;
+	font-size:90%;
 	mso-char-wrap:1;
 	mso-kinsoku-overflow:1;}
 .O1
@@ -148,13 +148,9 @@ body
 	{mso-special-format:nobullet•;
 	font-family:Arial;}
 .CB
-	{text-align:center;
-	font-family:Calibri;
+	{font-family:Calibri;
 	mso-ascii-font-family:Calibri;
 	mso-hansi-font-family:Calibri;
-	color:black;
-	mso-color-index:1;
-	font-size:152%;
 	mso-char-wrap:1;
 	mso-kinsoku-overflow:1;}
 .CB1B
@@ -193,16 +189,12 @@ body
 	mso-hansi-font-family:Calibri;
 	mso-char-wrap:1;
 	mso-kinsoku-overflow:1;}
-.CTB
-	{mso-special-format:nobullet•;}
 .CT
-	{text-align:center;
-	font-family:Calibri;
+	{font-family:Calibri;
 	mso-ascii-font-family:Calibri;
 	mso-hansi-font-family:Calibri;
 	color:black;
 	mso-color-index:1;
-	font-size:209%;
 	mso-char-wrap:1;
 	mso-kinsoku-overflow:1;}
 .HBB
@@ -336,7 +328,7 @@ body
 	layout-flow:horizontal;
 	color:black;
 	mso-color-index:1;
-	font-size:85%;
+	font-size:90%;
 	mso-text-raise:0%;
 	mso-line-spacing:"100 0 0";
 	mso-margin-left-alt:0;

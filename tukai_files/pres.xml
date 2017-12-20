@@ -10,13 +10,11 @@
    <p:schemes>
    </p:schemes>
   </p:master>
-  <p:slide id="1" slidesn="1D379AF,EAA4C160" href="slide0001.html"/>
   <p:slide id="2" slidesn="1D379B0,A874AC0" href="slide0002.html"/>
-  <p:slide id="3" slidesn="1D379B0,5C76F060" href="slide0003.html"/>
   <p:viewstate type="slideView" restoredleft="156" restoredtop="946"
    hideoutlineicons="t"/>
   <p:pptdocumentsettings framecolors="WhiteTextOnBlack" hideslideanimation="t"
    browsersupport="v4"/>
  </p:presentation>
- <o:shapedefaults v:ext="edit" spidmax="4100"/>
+ <o:shapedefaults v:ext="edit" spidmax="2052"/>
 </xml>

@@ -1,0 +1,23 @@
+<xml xmlns:o="urn:schemas-microsoft-com:office:office">
+ <o:File HRef="master03.html"/>
+ <o:File HRef="master03.xml"/>
+ <o:File HRef="preview.wmf"/>
+ <o:File HRef="pres.xml"/>
+ <o:File HRef="slide0001.html"/>
+ <o:File HRef="slide0001_background.gif"/>
+ <o:File HRef="slide0001_image001.jpg"/>
+ <o:File HRef="slide0002.html"/>
+ <o:File HRef="slide0002_background.gif"/>
+ <o:File HRef="slide0002_image002.jpg"/>
+ <o:File HRef="slide0003.html"/>
+ <o:File HRef="slide0003_background.gif"/>
+ <o:File HRef="slide0003_image003.jpg"/>
+ <o:File HRef="master03_stylesheet.css"/>
+ <o:File HRef="script.js"/>
+ <o:MainFile HRef="../tukai.html"/>
+ <o:File HRef="fullscreen.html"/>
+ <o:File HRef="buttons.gif"/>
+ <o:File HRef="frame.html"/>
+ <o:File HRef="outline.html"/>
+ <o:File HRef="filelist.xml"/>
+</xml>
